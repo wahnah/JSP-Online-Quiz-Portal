@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/wahnah/Desktop/mysql-connector-java-8.0.17.jar",
+        "/home/wahnah/Desktop/jsp-api-2.1.jar",
+        "/home/wahnah/Desktop/servlet-api.jar"
+    ]
+}
