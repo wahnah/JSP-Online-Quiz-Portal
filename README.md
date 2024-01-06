@@ -1,9 +1,9 @@
-# Examily: An Online Quiz System 
+# JSP Online Quiz Portal 
 
 
 ## 1. Project Description:
 
-Examily is a quiz-based examination platform for University level courses.
+JSP Online Quiz Portal is a quiz-based examination platform for University level courses.
 
 It allows access to two types of users, with the following functions:
 
